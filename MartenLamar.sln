@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{EC179D35-3DAB-4F6D-83CE-F2AC012FC973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibBase", "ClassLibBase\ClassLibBase.csproj", "{A088FC4C-CCC3-46EB-A7FB-341513899971}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibModels", "ClassLibModels\ClassLibModels.csproj", "{03F07B6B-AFDA-4DA0-968E-AAF7AFFD96EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC179D35-3DAB-4F6D-83CE-F2AC012FC973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC179D35-3DAB-4F6D-83CE-F2AC012FC973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC179D35-3DAB-4F6D-83CE-F2AC012FC973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC179D35-3DAB-4F6D-83CE-F2AC012FC973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A088FC4C-CCC3-46EB-A7FB-341513899971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A088FC4C-CCC3-46EB-A7FB-341513899971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A088FC4C-CCC3-46EB-A7FB-341513899971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A088FC4C-CCC3-46EB-A7FB-341513899971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03F07B6B-AFDA-4DA0-968E-AAF7AFFD96EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F07B6B-AFDA-4DA0-968E-AAF7AFFD96EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F07B6B-AFDA-4DA0-968E-AAF7AFFD96EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F07B6B-AFDA-4DA0-968E-AAF7AFFD96EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
